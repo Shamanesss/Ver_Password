@@ -1,0 +1,19 @@
+.contenedor{
+    width: 20rem;
+    margin-bottom: 1rem;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 3rem;
+    line-height: 2rem;
+    background-color: rgb(222, 204, 173);
+    border-radius: 5%;
+}
+img{
+width: 1rem;
+}
+.boton{
+    margin-top: 2rem;
+    padding: 0.3rem 0.5rem;
+    background-color: rgb(91, 63, 11);
+    color:white;
+}
