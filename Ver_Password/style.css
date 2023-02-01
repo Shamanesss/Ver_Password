@@ -17,3 +17,15 @@ width: 1rem;
     background-color: rgb(91, 63, 11);
     color:white;
 }
+button:disabled{
+    
+    padding: 0.3rem 2.5rem;
+    background-color: rgb(92, 90, 85);
+    color:white;
+}
+.boton1{
+   
+    padding: 0.3rem 2.5rem;
+    background-color: rgb(91, 63, 11);
+    color:white;
+}
